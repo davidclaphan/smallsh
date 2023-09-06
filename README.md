@@ -6,7 +6,7 @@ This program:
 
 - Prints an interactive input prompt
 - Parses command line input into semantic tokens
-- Implements parameter expansion
+- Implements parameter expansion:
   - Shell special parameters '$$', '$?', and '$!'
   - Tilde (~) expansion
 - Implements two shell built-in commands: exit and cd
